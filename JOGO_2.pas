@@ -9,7 +9,7 @@ var
    party_x, party_y, tirx, tiry, backx, arma, som_1,som_2 : integer;
    sair, atirando, atirou, som, sinal_backup, x_sinal, abaixado, pulo : boolean;
 
-{$I tela.pas}
+{$I TELA.pas}
 
 procedure teclas;
 Var
